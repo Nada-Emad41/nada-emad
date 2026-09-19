@@ -60,7 +60,19 @@ End-to-end retail analytics case study using more than **1 million raw transacti
 
 ### Additional Analytics & Biomedical Projects
 
-- **AML Multi-Omics Analysis** — Machine learning and multi-omics analysis of TCGA-LAML data using Python, including feature integration, classification, and biomarker investigation.
+### [AML Multi-Omics & Precision Medicine](https://github.com/Nada-Emad41/aml-multiomics-precision-medicine)
+
+End-to-end biomedical analytics project using **TCGA-LAML** molecular and clinical data to explore AML heterogeneity and investigate survival-related patient stratification.
+
+- Analyzed **mRNA expression, miRNA expression, and DNA methylation** across exploratory molecular profiling and multi-omics analysis.
+- Performed earlier multi-omics integration using **MOFA** to investigate shared sources of molecular variation across omics layers.
+- Built a later predictive workflow using matched **mRNA, miRNA, and clinical data**, including preprocessing, patient-level integration, dimensionality reduction, and machine-learning evaluation.
+- Compared **Random Forest, SVM, and XGBoost** models and used cross-validation to assess the stability of predictive performance.
+- Investigated candidate molecular biomarkers and evaluated model-derived patient groups using **Kaplan–Meier survival analysis**.
+- Documented methodology, results, data usage, and study limitations to distinguish exploratory findings from clinically validated predictions.
+
+**Tools:** Python · R · Pandas · NumPy · Scikit-learn · XGBoost · MOFA · Survival Analysis · GitHub
+
 - **16S Amplicon Sequencing Analysis** — Microbiome analysis workflow including alpha/beta diversity, differential analysis, and microbial community exploration.
 
 ---
