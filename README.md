@@ -46,13 +46,22 @@ My experience includes **data quality validation, reporting, business analysis, 
 
 ## 📊 Featured Projects
 
-🚧 Projects are currently being developed and documented.
+### [Retail Sales & Customer Performance Analytics](https://github.com/Nada-Emad41/retail-sales-customer-analytics)
 
-* **Sales & Revenue Intelligence** — Business analysis using a real public dataset, including data-quality validation, KPI analysis, and visualization.
-* **Inventory & Operations Analytics** — Professional case study based on real-world operational analytics workflows.
-* **Healthcare Analytics** — Data-driven analysis of healthcare operations and performance.
-* **AML Multi-Omics Analysis** — Machine learning and multi-omics analysis using biomedical datasets.
-* **16S Amplicon Sequencing Analysis** — Bioinformatics workflow for microbial community analysis.
+End-to-end retail analytics case study using more than **1 million raw transaction records** from the UCI Online Retail II dataset.
+
+- Investigated missing values, cancellations, duplicate records, overlapping source periods, pricing anomalies, and non-standard transactions before defining analytical rules.
+- Built a reproducible **PostgreSQL/SQL workflow** for data validation, transformation, reconciliation, and sales, product, customer, market, and cancellation analysis.
+- Developed a **Power BI dashboard** using Power Query, dimensional modeling, and DAX to analyze revenue, orders, customers, products, markets, and cancellation impact.
+- Validated key business KPIs including **19.01M net revenue**, **72.39% repeat-customer rate**, and **84.91% UK share of net revenue**.
+- Documented the full analytical process, assumptions, limitations, business insights, and final dashboard in GitHub.
+
+**Tools:** PostgreSQL · SQL · Power Query · Power BI · DAX · GitHub
+
+### Additional Analytics & Biomedical Projects
+
+- **AML Multi-Omics Analysis** — Machine learning and multi-omics analysis of TCGA-LAML data using Python, including feature integration, classification, and biomarker investigation.
+- **16S Amplicon Sequencing Analysis** — Microbiome analysis workflow including alpha/beta diversity, differential analysis, and microbial community exploration.
 
 ---
 
@@ -73,11 +82,9 @@ Experience working with operational and transactional data, including:
 
 ## 🎓 Education
 
-**Diploma in Bioinformatics**
-Nile University
+**Professional Diploma in Bioinformatics** — Nile University
 
-**B.Sc. in Information Technology & Computer Science — Biomedical Informatics**
-Nile University
+**B.Sc. in Information Technology & Computer Science (Biomedical Informatics)** — Nile University
 
 ---
 
